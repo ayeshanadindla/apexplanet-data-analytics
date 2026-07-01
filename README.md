@@ -11,7 +11,7 @@ This repository contains tasks and projects completed during my Data Analytics I
 - scripts/ : Python scripts
 - reports/ : Internship reports
 - dashboards/ : Dashboard files
-
+-sql/:sql files
 ## Tools Used
 
 - Python
@@ -20,3 +20,20 @@ This repository contains tasks and projects completed during my Data Analytics I
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## Task 2 - SQL for Data Extraction
+
+### Concepts Covered
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- Views
+
+### Tools Used
+- SQLite
+- DB Browser for SQLite
