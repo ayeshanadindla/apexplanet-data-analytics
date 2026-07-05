@@ -66,4 +66,4 @@ Built an interactive Power BI dashboard using the Sample Superstore dataset.
 This dashboard provides interactive business insights and helps analyze sales performance across different regions, categories, and products.
 ## Dashboard Preview
 
-![Dashboard](task3dashboard.png)
+![Dashboard](task3_dashboard.png)
