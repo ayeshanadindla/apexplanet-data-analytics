@@ -68,3 +68,27 @@ This dashboard provides interactive business insights and helps analyze sales pe
 
 ![Dashboard](PowerBI/Task3_Dashboard.pbix
 )
+# Task 4 – Advanced Analytics
+
+## Objective
+Perform advanced data analysis using Python on the Superstore dataset.
+
+## Tasks Performed
+- Descriptive Statistical Analysis
+- Hypothesis Testing (T-Test & Chi-Square Test)
+- Time Series Analysis
+- Moving Average Analysis
+- Customer Segmentation using K-Means Clustering
+- Sales Prediction using Linear Regression
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SciPy
+
+## Outcome
+Performed statistical analysis, identified customer segments, analyzed sales trends, and built a predictive model for sales forecasting.
