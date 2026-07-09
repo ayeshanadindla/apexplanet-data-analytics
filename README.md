@@ -92,3 +92,27 @@ Perform advanced data analysis using Python on the Superstore dataset.
 
 ## Outcome
 Performed statistical analysis, identified customer segments, analyzed sales trends, and built a predictive model for sales forecasting.
+# Task 5 – Final Report, Automation & Presentation
+
+## Objective
+Completed the final phase of the Data Analytics Internship by preparing an executive report, automating the data processing pipeline, and organizing all project deliverables.
+
+## Deliverables
+- Executive Summary Report (PDF)
+- Automation Pipeline (Python)
+- Dashboard Screenshot
+- Processed Dataset
+- Requirements File
+
+## Technologies Used
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Outcome
+Successfully completed an end-to-end data analytics project involving data cleaning, SQL analysis, dashboard development, statistical analysis, machine learning, and workflow automation.
